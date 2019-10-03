@@ -8,6 +8,6 @@ Our industry is hype-based and a lot of the time we're pushed to use tools and t
 
 ## Monolithic architectures in production
 
-- [Linux](https://en.wikipedia.org/wiki/Linux)
+- [Linux Kernel](https://en.wikipedia.org/wiki/Linux)
 - [StackOverflow](https://stackoverflow.com/)
 - [Google Monorepos](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
